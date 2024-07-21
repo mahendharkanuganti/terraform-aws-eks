@@ -1,4 +1,4 @@
-c:\Users\lenovo\Downloads\eks-infra-1.drawio.png
+![c:\Users\lenovo\Downloads\eks-infra-1.drawio.png](c:/Users/lenovo/Downloads/eks-infra-1.drawio.svg)
 
 Creating above infrastructure involves lot of steps, as maintained sequence we need to create
 
