@@ -114,3 +114,16 @@ helm install aws-load-balancer-controller eks/aws-load-balancer-controller -n ku
 ```
 kubectl get pods -n kube-system
 ```
+------
+
+### Order of deleting resources
+
+* delete frontend which is in expense-k8-eks repo
+* delete backend which is in expense-k8-eks repo
+* delete 60-ingress-alb
+* delete 50-acm
+* delete 40-eks
+* delete 30-db
+* delete 20-bastion
+* delete 10-sg
+* delete 00-vpc
