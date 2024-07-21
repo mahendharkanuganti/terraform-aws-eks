@@ -74,7 +74,7 @@ FLUSH PRIVILEGES;
 ------- 
 * create expenese namespace
 ```
-kubectl create ns expense
+kubectl create namespace expense
 ```
 
 ### Ingress Controller
