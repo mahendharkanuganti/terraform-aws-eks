@@ -1,4 +1,4 @@
-![alt text](image.png)
+c:\Users\lenovo\Downloads\eks-infra-1.drawio.png
 
 Creating above infrastructure involves lot of steps, as maintained sequence we need to create
 
