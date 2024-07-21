@@ -72,6 +72,10 @@ GRANT ALL ON transactions.* TO 'expense'@'%';
 FLUSH PRIVILEGES;
 ```
 ------- 
+* create expenese namespace
+```
+kubectl create ns expense
+```
 
 ### Ingress Controller
 
