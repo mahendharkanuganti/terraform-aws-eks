@@ -1,4 +1,4 @@
-![alt text](image-1.svg)
+https://github.com/daws-78s/terraform-aws-eks/raw/main/eks-infra.svg
 
 Creating above infrastructure involves lot of steps, as maintained sequence we need to create
 
